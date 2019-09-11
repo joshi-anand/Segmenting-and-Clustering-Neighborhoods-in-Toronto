@@ -1,4 +1,4 @@
-This is the final assignment for IBM Data Science Certification. The last module of applied Data Science Capstone mnadated completing an assignment for peer assesment. The key objectives of this assignment are:
+This is the final assignment of IBM Data Science Certification. The last module of applied Data Science Capstone mnadated completing an assignment for peer assesment. The key objectives of this assignment are:
 The dataframe will consist of three columns: PostalCode, Borough, and Neighborhood
 Only process the cells that have an assigned borough. Ignore cells with a borough that is Not assigned.
 More than one neighborhood can exist in one postal code area. For example, in the table on the Wikipedia page, you will notice that M5A is listed twice and has two neighborhoods: Harbourfront and Regent Park. These two rows will be combined into one row with the neighborhoods separated with a comma as shown in row 11 in the above table.
